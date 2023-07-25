@@ -1,6 +1,6 @@
 # 0x01-caching
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Guillaume, CTO at Holberton School  
+:bust_in_silhouette: by Nancy Idiong  
 :copyright: **[ALX](https://intranet.alxswe.com/)/)**
 
 ## Background Context
